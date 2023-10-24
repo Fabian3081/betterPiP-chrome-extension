@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "BetterPiP (Picture-in-Picture)",
+  "version": "1.0",
+  "description": "Chrome Extension that enables Picture-in-Picture functionality for video elements on any website, even if the feature is originally restricted by the video element.",
+  "permissions": [
+    "activeTab", "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "19": "assets/icon19.png",
+      "38": "assets/icon38.png",
+      "128": "assets/icon128.png"
+    }
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
