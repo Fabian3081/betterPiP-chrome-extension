@@ -9,6 +9,9 @@ BetterPiP is a Chrome Extension that enables Picture-in-Picture functionality fo
 While Google's own Picture-in-Picture extension works well, it requires you to disable Google Analytics tracking manually and doesn't support some video players. BetterPiP is a non-tracking, more universally applicable alternative.
 
 ## Installation 🛠️
+Download in chrome web store: https://chromewebstore.google.com/detail/endhmbgakhoilnhmceneipnneklgddog
+
+or
 
 1. Clone this repository 📦
 2. Open `chrome://extensions/` in your Chrome browser 🌐
